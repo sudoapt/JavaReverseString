@@ -1,5 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        String s1 = "Sting@to_123_be..";
+
+        System.out.println(StringUtil.ReverseString(s1));
     }
 }
