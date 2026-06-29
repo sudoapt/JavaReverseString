@@ -1,3 +1,4 @@
+package org.example.util;
 public class StringUtil  {
     public static  String ReverseString (String str) {
         if (str == null || str.isEmpty()) {
